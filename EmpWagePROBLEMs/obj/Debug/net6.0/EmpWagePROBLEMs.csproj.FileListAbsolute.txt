@@ -1,0 +1,5 @@
+D:\Terminal\EmployeeWageProblems\EmployeeWageComputayionProblems\EmpWagePROBLEMs\obj\Debug\net6.0\EmpWagePROBLEMs.csproj.AssemblyReference.cache
+D:\Terminal\EmployeeWageProblems\EmployeeWageComputayionProblems\EmpWagePROBLEMs\obj\Debug\net6.0\EmpWagePROBLEMs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Terminal\EmployeeWageProblems\EmployeeWageComputayionProblems\EmpWagePROBLEMs\obj\Debug\net6.0\EmpWagePROBLEMs.AssemblyInfoInputs.cache
+D:\Terminal\EmployeeWageProblems\EmployeeWageComputayionProblems\EmpWagePROBLEMs\obj\Debug\net6.0\EmpWagePROBLEMs.AssemblyInfo.cs
+D:\Terminal\EmployeeWageProblems\EmployeeWageComputayionProblems\EmpWagePROBLEMs\obj\Debug\net6.0\EmpWagePROBLEMs.csproj.CoreCompileInputs.cache
